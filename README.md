@@ -1,2 +1,2 @@
 # Strategist
-A simple application which determine tactics in strategy games.
+A simple application which determines ingame progress in strategy games.
